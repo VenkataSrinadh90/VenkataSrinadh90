@@ -1,4 +1,4 @@
-# Hello, I'm Venkata Srinadh Nissankararao👋
+# Hi, I'm Venkata Srinadh👋
 
 🎓 B.Tech Information Technology Student
 
