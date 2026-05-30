@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Venkata Srinadh Nissankararao👋
 
-<!--
-**VenkataSrinadh90/VenkataSrinadh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Passionate about Java Development and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Java
+- Spring Boot
+- MySQL
+
+🚀 Projects:
+- Hospital Management System
+- WeCare Hospital Website
+- JavaScript Calculator
+- Warm Mugs Cafe Website
+
+📚 Practicing:
+- LeetCode
+- Java Programming
+- Problem Solving
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+
+📫 Reach Me:
+srinadhvenkat1234@gmail.com (or) venkatasrinadhnissankararao@gmail.com
