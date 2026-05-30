@@ -10,12 +10,6 @@
 - Spring Boot
 - MySQL
 
-🚀 Projects:
-- Hospital Management System
-- WeCare Hospital Website
-- JavaScript Calculator
-- Warm Mugs Cafe Website
-
 📚 Practicing:
 - LeetCode
 - Java Programming
