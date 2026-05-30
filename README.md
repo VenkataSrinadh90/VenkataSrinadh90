@@ -12,7 +12,6 @@
 
 📚 Practicing:
 - LeetCode
-- Java Programming
 - Problem Solving
 
 ## Tech Stack
@@ -22,7 +21,6 @@
 - MySQL
 - HTML
 - CSS
-- JavaScript
 - Git & GitHub
 
 
